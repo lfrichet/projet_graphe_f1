@@ -141,3 +141,4 @@ Lucas FRICHET
 BUT1 Informatique
 Belfort, 90000
 
+(Mise en forme fait automatique et ne correspond pas à mes souhaits et à ce que j'ai fais)
