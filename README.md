@@ -1,5 +1,6 @@
 Graphe Formule 1 (2023-2026)
 
+Un graphe sur la Formula 1® contenant des parties de saisons de 2023, 2024, 2025 uniquement dans le but de resté lisible.
 Projet réalisé dans le cadre d'un BUT Informatique à l'IUT NFC - UMLP sur le campus de Belfort.
 Ce projet consiste à modéliser les relations du championnat de Formule 1 sous forme de graphe et à appliquer plusieurs algorithmes de théorie des graphes.
 
