@@ -82,19 +82,19 @@ Le programme :
 * Algorithmes utilisés
 -> BFS (Breadth First Search)
    Parcours du graphe en largeur.
-   > Permet d’explorer les relations entre les entités du championnat.
+   - Permet d’explorer les relations entre les entités du championnat.
 
 -> DFS (Depth First Search)
    Parcours en profondeur du graphe.
-   > Permet d’explorer les chemins possibles dans le réseau.
+   - Permet d’explorer les chemins possibles dans le réseau.
 
 -> Dijkstra
    Algorithme de plus court chemin entre deux nœuds.
    Exemple :
-   > Lewis Hamilton_2020 -> Mercedes
+   - Lewis Hamilton_2020 -> Mercedes
       distance = 1
    ou
-   > Pierre Gasly_2020 → AlphaTauri → Honda
+   - Pierre Gasly_2020 → AlphaTauri → Honda
       distance = 2
 
 
